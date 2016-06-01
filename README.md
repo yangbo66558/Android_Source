@@ -1,6 +1,5 @@
 # Android_Source
-already famous project, lib etc.
-this is read me, thas'all.
+The star function of Github can not tag the item, so i decide to build this repository for some lib and other material for further check and see. 
 ***
 ***
 ***
