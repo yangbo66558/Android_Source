@@ -4,7 +4,7 @@ this is read me, thas'all.
 ***
 ***
 ***
-#Already Famous
+#一 Already Famous
 ##1 tensorflow
 ###Computation using data flow graphs for scalable machine learning
 https://github.com/tensorflow/tensorflow
@@ -115,7 +115,7 @@ https://github.com/chrisbanes/PhotoView
 ***
 ***
 ***
-########################Project ################################
+#二 Project
 ##1 phphub-ui
 ###Product planing and UI Design for PHPHub App and Web site
 https://github.com/summerblue/phphub-ui
@@ -162,7 +162,7 @@ https://github.com/mikepenz/LollipopShowcase
 ***
 ***
 ***
-########################Collection ################################
+#三 Collection
 ##0 Awesome-MaterialDesign
 ###Collection of material design libs and res.
 https://github.com/lightSky/Awesome-MaterialDesign
@@ -225,7 +225,7 @@ https://github.com/android-cn/android-open-project-analysis
 ***
 ***
 ***
-########################Android Server################################
+#四 Android Server
 ##1 DroidPHP
 ###DroidPHP is a small, fast and lightweight open source Web Server for Android
 https://github.com/DroidPHP/DroidPHP
@@ -244,7 +244,7 @@ https://github.com/NanoHttpd/nanohttpd
 ***
 ***
 ***
-########################Android Test################################
+#五 Android Test
 ##1 mockito
 ###Mocking framework for unit tests written in Java
 https://github.com/mockito/mockito
