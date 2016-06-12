@@ -139,6 +139,10 @@ https://github.com/googlesamples/android-UniversalMusicPlayer
 ###一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。
 https://github.com/joyoyao/superCleanMaster
 ***
+##10 DMGameApp
+###DMGameApp是一款基于3DMGAME的一个游戏门户app，非官方版本，属于个人业余时间做的一个小项目； 界面有一些仿网易新闻客户端
+https://github.com/xiaohaibin/DMGameApp
+***
 ***
 ***
 #三 Collection
