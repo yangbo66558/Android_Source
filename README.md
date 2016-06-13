@@ -143,11 +143,11 @@ https://github.com/joyoyao/superCleanMaster
 ###DMGameApp是一款基于3DMGAME的一个游戏门户app，非官方版本，属于个人业余时间做的一个小项目； 界面有一些仿网易新闻客户端
 https://github.com/xiaohaibin/DMGameApp
 ***
-##LuckyMoneyTool
+##11 LuckyMoneyTool
 ###小米强红包插件
 https://github.com/XiaoMi/LuckyMoneyTool
 ***
-##WeChatLuckyMoney
+##12 WeChatLuckyMoney
 ###微信抢红包插件, 帮助你在微信群聊抢红包时战无不胜. An Android app that helps you snatch virtual red envelopes in WeChat group chat.
 https://github.com/geeeeeeeeek/WeChatLuckyMoney
 ***
