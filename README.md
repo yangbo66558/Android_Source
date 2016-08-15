@@ -104,6 +104,10 @@ https://github.com/facebook/fresco
 ###Implementation of ImageView for Android that supports zooming, by various touch gestures.
 https://github.com/chrisbanes/PhotoView
 ***
+##26 FileDownloader
+###Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
+https://github.com/lingochamp/FileDownloader
+***
 ***
 ***
 #二 Project
@@ -233,6 +237,14 @@ https://github.com/kesenhoo/android-training-course-in-chineseo
 ##20 Android-Best-Practices
 ###Android最佳实践示例
 https://github.com/tianzhijiexian/Android-Best-Practices
+***
+##21 Android-SpinKit
+###Android loading animations
+https://github.com/ybq/Android-SpinKit
+***
+##22 EasyAndroidAnimations
+Easy Android Animations
+https://github.com/2359media/EasyAndroidAnimations
 ***
 ***
 ***
